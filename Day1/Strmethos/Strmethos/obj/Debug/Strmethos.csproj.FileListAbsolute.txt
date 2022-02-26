@@ -1,0 +1,8 @@
+D:\.Net C#\Day1\Strmethos\Strmethos\bin\Debug\Strmethos.exe.config
+D:\.Net C#\Day1\Strmethos\Strmethos\bin\Debug\Strmethos.exe
+D:\.Net C#\Day1\Strmethos\Strmethos\bin\Debug\Strmethos.pdb
+D:\.Net C#\Day1\Strmethos\Strmethos\obj\Debug\Strmethos.csproj.AssemblyReference.cache
+D:\.Net C#\Day1\Strmethos\Strmethos\obj\Debug\Strmethos.csproj.SuggestedBindingRedirects.cache
+D:\.Net C#\Day1\Strmethos\Strmethos\obj\Debug\Strmethos.csproj.CoreCompileInputs.cache
+D:\.Net C#\Day1\Strmethos\Strmethos\obj\Debug\Strmethos.exe
+D:\.Net C#\Day1\Strmethos\Strmethos\obj\Debug\Strmethos.pdb

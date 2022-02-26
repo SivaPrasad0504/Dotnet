@@ -1,0 +1,8 @@
+D:\.Net C#\Day1\CaseExample2\CaseExample2\obj\Debug\CaseExample2.csproj.AssemblyReference.cache
+D:\.Net C#\Day1\CaseExample2\CaseExample2\obj\Debug\CaseExample2.csproj.SuggestedBindingRedirects.cache
+D:\.Net C#\Day1\CaseExample2\CaseExample2\obj\Debug\CaseExample2.csproj.CoreCompileInputs.cache
+D:\.Net C#\Day1\CaseExample2\CaseExample2\bin\Debug\CaseExample2.exe.config
+D:\.Net C#\Day1\CaseExample2\CaseExample2\bin\Debug\CaseExample2.exe
+D:\.Net C#\Day1\CaseExample2\CaseExample2\bin\Debug\CaseExample2.pdb
+D:\.Net C#\Day1\CaseExample2\CaseExample2\obj\Debug\CaseExample2.exe
+D:\.Net C#\Day1\CaseExample2\CaseExample2\obj\Debug\CaseExample2.pdb
